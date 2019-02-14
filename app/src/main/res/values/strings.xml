@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit Demo with Structure</string>
+    <string name="msg_permission_step">Permission</string>
+    <string name="msg_no_internet_available">no internet</string>
+</resources>
